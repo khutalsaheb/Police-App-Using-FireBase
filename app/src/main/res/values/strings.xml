@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POLICE</string>
+    <string name="auth_successfull">Authentication Successful</string>
+    <string name="onlinefir">ऑनलाईन तक्रार</string>
+</resources>

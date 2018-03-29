@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272078978796",
+    "firebase_url": "https://police-d1751.firebaseio.com",
+    "project_id": "police-d1751",
+    "storage_bucket": "police-d1751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272078978796:android:b1ce1140755fb020",
+        "android_client_info": {
+          "package_name": "com.maha.police"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272078978796-rk6dlg8irago2739bn4hsp0eg643o8tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maha.police",
+            "certificate_hash": "2d3d7fd0295f16b5ad5e159be159a9835a81cf9d"
+          }
+        },
+        {
+          "client_id": "272078978796-1lvnd6kvftfbes1qocuilodu2i2em5b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-G6b8sOh8Z0oFGr2Hz-7soRk_HWwG454"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272078978796-1lvnd6kvftfbes1qocuilodu2i2em5b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
